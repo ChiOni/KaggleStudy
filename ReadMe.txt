@@ -1,1 +1,1 @@
-송치원과 배성수의 캐글 스터디
+Song & Bae KaggleStudy in Wangsibli
