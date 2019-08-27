@@ -7,3 +7,17 @@
 ###### Task (Due. 2019/08/18)
 - Section1 # Neural Networks and Deep Learning W01 ~ W04 (except for programming assignments)
 - Preparing for Kaggle Contest (IEEE-CIS Fraud Detection)
+
+
+---
+
+#### 2019/08/19 Sun
+
+##### What we did
+- Do Programming Assignment (Section #1 W01 ~ W03)
+
+##### Task
+- Do Programming Assignment (Section #1 W04)
+- Take the section #2 course
+
+
