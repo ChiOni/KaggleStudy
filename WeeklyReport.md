@@ -30,3 +30,18 @@
 
 ##### Task
 - Take the Section #2 W02~W03
+
+
+
+---
+
+#### 2019/09/01 Sun
+
+##### What we did
+- Do Programming Assignment (Section #2 W02, W03)
+
+##### Task
+- Section#4 W01 (Skip Section#3 -- individually studying)
+- Reviewing paper about (CNN / abnomaly detection)
+
+
