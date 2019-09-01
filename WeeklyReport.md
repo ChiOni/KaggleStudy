@@ -11,13 +11,37 @@
 
 ---
 
-#### 2019/08/19 Sun
+#### 2019/08/18 Sun
 
 ##### What we did
 - Do Programming Assignment (Section #1 W01 ~ W03)
 
 ##### Task
 - Do Programming Assignment (Section #1 W04)
-- Take the section #2 course
+- Take the Section #2 W01
+
+
+---
+
+#### 2019/08/25 Sun
+
+##### What we did
+- Do Programming Assignment (Section #2 W01)
+
+##### Task
+- Take the Section #2 W02~W03
+
+
+
+---
+
+#### 2019/09/01 Sun
+
+##### What we did
+- Do Programming Assignment (Section #2 W02, W03)
+
+##### Task
+- Section#4 W01 (Skip Section#3 -- individually studying)
+- Reviewing paper about (CNN / abnomaly detection)
 
 
