@@ -1,1 +1,1 @@
-Song & Bae KaggleStudy in Wangsibli
+Song & Bae DeepLearning Study in Wangsibli
