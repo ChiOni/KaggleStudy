@@ -51,5 +51,3 @@
 
 
 
-#### Class Activation Mapping
-
